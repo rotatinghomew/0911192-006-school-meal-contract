@@ -1,0 +1,5 @@
+menu,ingredient,grams_raw_per_serving,usable_fraction
+tofu,soy,85,0.95
+tofu,greens,60,0.79
+bean,soy,60,0.95
+bean,greens,80,0.79

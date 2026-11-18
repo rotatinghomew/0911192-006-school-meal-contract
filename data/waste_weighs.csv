@@ -1,0 +1,11 @@
+weigh,batch,source,classes,kg,portions,invitation,state
+w1,b1,kitchen,,2.1,,complete,observed
+w2,b1,plate,N3,1.7,25,rotation,observed
+w3,b1,plate,N6,1.2,20,rotation,observed
+w4,b2,mixed,,3.0,,complete,observed
+w5,b2,plate,N6,,22,rotation,missed
+w6,b3,plate,N3,1.1,25,rotation,observed
+w7,b4,plate,,3.2,90,event,observed
+w8,b5,plate,E3,1.3,25,rotation,observed
+w9,b6,plate,E3,0.8,25,rotation,observed
+w10,b7,plate,E3,0.9,24,rotation,observed

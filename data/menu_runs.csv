@@ -1,0 +1,8 @@
+batch,school,date,menu,grams,prepared,served,day_kind
+b1,N,2026-04-06,tofu,125,32,240,regular
+b2,N,2026-04-13,tofu,115,31,243,regular
+b3,N,2026-04-20,bean,115,29,239,regular
+b4,N,2026-04-24,tofu,115,44,350,festival
+b5,E,2026-04-06,tofu,125,24.5,178,regular
+b6,E,2026-04-13,tofu,115,22.1,179,regular
+b7,E,2026-04-20,tofu,115,24.1,170,regular

@@ -1,0 +1,6 @@
+record,site,ingredient,kind,kg,unit_price,min_increment,date
+p1,N,soy,stock,10,8,5,2026-04-24
+p2,N,greens,stock,9,4,10,2026-04-24
+p3,N,soy,locked,20,8,5,2026-04-25
+p4,E,greens,arrival_short,4,4,10,2026-04-20
+p5,E,soy,stock,3,8,5,2026-04-24

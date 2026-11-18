@@ -1,0 +1,89 @@
+{
+  "tables": {
+    "menu_runs": [
+      "batch",
+      "school",
+      "date",
+      "menu",
+      "grams",
+      "prepared",
+      "served",
+      "day_kind"
+    ],
+    "serving_split": [
+      "claim",
+      "batch",
+      "stage",
+      "class",
+      "served",
+      "kg_min",
+      "kg_max",
+      "received"
+    ],
+    "waste_weighs": [
+      "weigh",
+      "batch",
+      "source",
+      "classes",
+      "kg",
+      "portions",
+      "invitation",
+      "state"
+    ],
+    "nutrition": [
+      "stage",
+      "minimum_grams",
+      "menus"
+    ],
+    "recipes": [
+      "menu",
+      "ingredient",
+      "grams_raw_per_serving",
+      "usable_fraction"
+    ],
+    "purchases": [
+      "record",
+      "site",
+      "ingredient",
+      "kind",
+      "kg",
+      "unit_price",
+      "min_increment",
+      "date"
+    ],
+    "next_service": [
+      "plan",
+      "site",
+      "stage",
+      "portions",
+      "menus",
+      "budget_yuan"
+    ]
+  },
+  "references": [
+    [
+      "serving_split",
+      "batch",
+      "menu_runs",
+      "batch"
+    ],
+    [
+      "waste_weighs",
+      "batch",
+      "menu_runs",
+      "batch"
+    ],
+    [
+      "next_service",
+      "stage",
+      "nutrition",
+      "stage"
+    ],
+    [
+      "menu_runs",
+      "menu",
+      "recipes",
+      "menu"
+    ]
+  ]
+}

@@ -1,0 +1,9 @@
+claim,batch,stage,class,served,kg_min,kg_max,received
+s1,b1,lower,N3,100,12,14,2026-04-06
+s2,b1,upper,N6,140,16,19,2026-04-06
+s3,b2,lower,N3,110,,,2026-04-13
+s4,b2,upper,N6,133,,,2026-04-13
+s5,b5,lower,E3,178,21,23,2026-04-06
+s6,b6,lower,E3,179,19,21,2026-04-13
+s7,b2,lower,N3,110,11.2,12.1,2026-04-26
+s8,b2,upper,N6,133,14.5,15.8,2026-04-26
